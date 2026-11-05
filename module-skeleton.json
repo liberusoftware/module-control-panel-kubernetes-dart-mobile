@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-kubernetes-dart-mobile",
+  "capabilityKey": "liberusoftware/module-control-panel-kubernetes",
+  "presentation": "dart-mobile",
+  "package": "module_control_panel_kubernetes_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/control-panel/nextjs/kubernetes.md",
+  "presentationPlan": "projects/control-panel/features/kubernetes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
